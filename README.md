@@ -3,6 +3,9 @@
 A simple Arduino-based weigh counting system using an HX711 load cell amplifier and an I2C LCD. This README explains the project purpose, required hardware, calibration tips, and simple troubleshooting.
 
 ---
+<p align="center">
+  <img src="system.png" width="500" alt="Automated Weigh Counting System">
+</p>
 
 ## Features
 
