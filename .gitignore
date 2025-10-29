@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Build / artifacts
+build/
+dist/
+*.o
+*.exe
+
+
+# Node
+node_modules/
+
+# Arduino / embedded (common)
+*.elf
+*.hex
+*.bin
+
